@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Script Tracking
+Plugin Name: WP Tracking Scripts
 Plugin URI: https://cunisinc.com
 Description: Adds a tracking scripts  Google Analytics tracking code to the <head> of your theme.
 Author: Giancarlo Cunis
